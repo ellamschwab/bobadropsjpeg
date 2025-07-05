@@ -1,0 +1,11 @@
+body {
+    background-color:rgb(207, 240, 207);
+    text-align:center;
+    color:darkgreen;
+    text-decoration-style: wavy;
+    
+}
+img{
+    border-radius:300px;
+    width:500px;
+}
